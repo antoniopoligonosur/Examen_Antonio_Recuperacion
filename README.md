@@ -8,11 +8,11 @@ También incluye un sistema de **notificaciones** y **perfiles de usuario**.
 
 #### 1. Clonar el repositorio:
 ```bash
-git clone git@github.com:Manuel-Avecilla/DWS_Examen_Manuel.git
+git clone git@github.com:antoniopoligonosur/Examen_Antonio_Recuperacion.git
 ```
 #### 2. Acceder al directorio del proyecto:
 ```bash
-cd DWS_Examen_Manuel/app/
+cd Examen_Antonio_Recuperacion/app/
 ```
 #### 3. Crear un entorno virtual:
 ```bash
@@ -60,4 +60,4 @@ Para mantener el README principal más limpio, la documentación detallada se en
 ---
 
 ## Autor
-**Manuel Avecilla 2ºDAW.**
+**Antonio Mateos Delgado 2ºDAW.**
